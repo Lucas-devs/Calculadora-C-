@@ -1,0 +1,10 @@
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\bin\Debug\CalculadoraCSharpe.exe.config
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\bin\Debug\CalculadoraCSharpe.exe
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\bin\Debug\CalculadoraCSharpe.pdb
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.csprojAssemblyReference.cache
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.Form1.resources
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.Properties.Resources.resources
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.csproj.GenerateResource.cache
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.exe
+C:\Users\Pc Gamer\source\repos\CalculadoraCSharpe\CalculadoraCSharpe\obj\Debug\CalculadoraCSharpe.pdb
